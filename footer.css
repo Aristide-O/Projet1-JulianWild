@@ -29,7 +29,7 @@ footer {
   width: 80px;
   margin-left: 10px;
   background-color: #FFFFFF;
-  color: #009DA5;
+  color: #383838;
   font-size: 15px;
 }
 
@@ -105,7 +105,7 @@ footer {
 }
 
 footer {
-  background-color: black;
+  background-color: 	#101010;
   color: var(--text-color);
 }
 
