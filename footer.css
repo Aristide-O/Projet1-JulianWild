@@ -10,6 +10,10 @@ footer {
   font-family: "roboto";
 }
 
+.newsletter-footer {
+  color: #FFFFFF
+}
+
 .arrow-footer {
   width: 30px;
 }
@@ -83,6 +87,26 @@ footer {
 
 .top-footer {
   color: #FFFFFF;
+}
+
+:root {
+  --background-color: white;
+  --text-color: black;
+
+  /* to read: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties */
+}
+
+
+[data-theme="dark"] {
+  /* to read: https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-* */
+  /* and https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors */
+  --background-color: black;
+  --text-color: white;
+}
+
+footer {
+  background-color: black;
+  color: var(--text-color);
 }
 
 @media only screen and (max-width: 641px) {
