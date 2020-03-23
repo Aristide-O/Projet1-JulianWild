@@ -4,7 +4,7 @@
         document.getElementById("modal01").style.display = "block";
     }
 
-    
+
 
     function switchTheme(event) {
         if (event.target.checked) {
@@ -17,3 +17,6 @@
 
     const toggler = document.querySelector('#toggler');
     toggler.addEventListener('change', switchTheme, false);
+
+
+    

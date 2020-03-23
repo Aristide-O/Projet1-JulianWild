@@ -59,7 +59,7 @@ strong {
 
   .container-country:hover {
     transform: translate(10px, -10px);
-    box-shadow: -8px 8px 0px #009DA5
+    box-shadow: -8px 8px 0px #101010
   }
 
   .overlay {
@@ -78,7 +78,7 @@ strong {
     grid-gap: 7vh;
 
   }
-  
+
   .text-country {
     font-size: 7vw;
   }

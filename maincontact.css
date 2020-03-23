@@ -121,7 +121,7 @@ textarea:focus {
     width: 100%;
     display: block;
   }
-  
+
   .form[type=checkbox] {
     box-shadow: none;
     width: 5%;
