@@ -54,10 +54,6 @@ textarea {
   border: 2px solid #009DA5;
 }
 
-label {
-  display: none;
-}
-
 .form[type=checkbox] {
   display: none;
 }
