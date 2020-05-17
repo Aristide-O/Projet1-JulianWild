@@ -86,7 +86,8 @@
 						width: 300px;
 						text-align: left;
 						padding-top: 10%; 
-						padding-left: 3%;			
+						padding-left: 3%;	
+				                background-color: #101010;
 						}
 
 
@@ -94,6 +95,7 @@
 						display: table-cell; vertical-align: middle;
 						text-align: center;
 						width: 300px;
+				                background-color: #101010;
 						}	
 
 			img.biocircle{
@@ -152,6 +154,7 @@
 						padding-top:2.5%;
 						padding-left: 0;
 						text-align: center;
+						background-color: #101010;
 
 						}
 
